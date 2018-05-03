@@ -1,4 +1,4 @@
-New: Add PTransE (EMNLP 2015) code!
+New: This project is merged to (https://github.com/thunlp/openke).
 
 
 
